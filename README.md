@@ -24,12 +24,12 @@ From learning the basics to solving real-world problems and leading teams, I’v
 🖥️ React, Next.js  
 💻 JavaScript, TypeScript, C  
 ⚛️ Redux, Redux Toolkit, Context API  
-🎨 Translating Figma designs into responsive interfaces  
 🔐 Firebase Auth, NextAuth  
 🌐 REST APIs, Axios, RTK Query, createAsyncThunk  
 💳 Stripe, etc.  
 🔄 Socket.IO   
 🤝 Git, GitHub, ClickUp, Figma  
+🎨 Translating Figma designs into responsive interfaces  
 🚀 Vercel, Netlify  
 
 ---
