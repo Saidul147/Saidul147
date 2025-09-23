@@ -1,8 +1,8 @@
-# 👋 Hi, I'm MD. Saidul
+# 👋 Hi, I'm MD. SAiDuL
 
-### 🚀 **Front-End Developer** at Softvence Delta Ltd.  
-### 💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
-### 🎓 **BBA & MBA (2016–2025)** | Govt. Rajendra College Faridpur  
+## 🚀 **Front-End Developer** at Softvence Delta Ltd.  
+## 💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
+## 🎓 **BBA & MBA (2016–2025)** | Govt. Rajendra College Faridpur  
 
 ---
 
