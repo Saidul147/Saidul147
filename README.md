@@ -1,8 +1,10 @@
 # 👋 Hi, I'm MD. SAiDuL
 
-## 🚀 **Front-End Developer** at Softvence Delta Ltd.  
-## 💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
-## 🎓 **BBA & MBA (2016–2025)** | Govt. Rajendra College Faridpur  
+<span style="font-size:16px">🚀 <strong>Front-End Developer</strong> at <a href="#">Softvence Delta Ltd.</a></span>  
+<span style="font-size:16px">💼 <strong>Ex-WordPress Developer</strong> at Kasmibd Ltd.</span>  
+<span style="font-size:16px">🎓 <strong>BBA & MBA (2016–2025)</strong> | Govt. Rajendra College Faridpur</span>  
+<span style="font-size:16px">🔗 <a href="https://github.com/Saidul147"><strong>GitHub Portfolio</strong></a></span>
+
 
 ---
 
