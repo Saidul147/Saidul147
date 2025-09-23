@@ -7,11 +7,6 @@
 
 ---
 
-## stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saidul147&theme=radical)](https://git.io/streak-stats)
-
----
 
 ## 💡 About Me
 
@@ -37,6 +32,10 @@ From learning the basics to solving real-world problems and leading teams, I’v
 🤝 Git, GitHub, ClickUp, Figma  
 🚀 Vercel, Netlify  
 
+---
+## stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saidul147&theme=dark)](https://git.io/streak-stats)
 
 
 ---
