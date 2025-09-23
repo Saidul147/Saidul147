@@ -1,9 +1,8 @@
 # Hi there 👋, I'm MD. SAiDuL
-# Front End Developer | React.js | Next.js
 
-🚀 **Front-End Developer** at Softvence Delta Ltd.  
-💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
-🎓 **BBA & MBA (2016–2025)** | Govt. Rajendra College Faridpur   
+###  🚀 **Front-End Developer** at Softvence Delta Ltd.  
+###  💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
+###  🎓 **BBA & MBA (2016–2025)** | Govt. Rajendra College Faridpur   
 
 
 
@@ -23,11 +22,11 @@ From learning the basics to solving real-world problems and leading teams, I’v
 ## 💪 What I'm Good At
 
 🖥️ React, Next.js  
-💻 JavaScript, TypeScript, C 
+💻 JavaScript, TypeScript, C  
 ⚛️ Redux, Redux Toolkit, Context API  
 🎨 Translating Figma designs into responsive interfaces  
 🔐 Firebase Auth, NextAuth  
-🌐 REST APIs, Axios, Rtk query , AsyncThunk  
+🌐 REST APIs, Axios, RTK Query, createAsyncThunk  
 💳 Stripe, etc.  
 🔄 Socket.IO   
 🤝 Git, GitHub, ClickUp, Figma  
