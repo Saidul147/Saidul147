@@ -19,17 +19,18 @@ From learning the basics to solving real-world problems and leading teams, I’v
 
 ## 💪 What I'm Good At
 
-🖥️ Frontend Frameworks: React, Next.js (2+ years)  
-💻 Languages & Typing: JavaScript, TypeScript, C (basic)  
-⚛️ State Management: Redux, Redux Toolkit, Context API (Expert)  
-🎨 Pixel-Perfect UI: Translating Figma designs into responsive interfaces  
-🔐 Authentication: Firebase Auth, NextAuth  
-🌐 API Handling: REST APIs, Axios, createAsyncThunk  
-💳 Payment Integration: Stripe, etc.  
-🔄 Real-Time Features: Socket.IO (chat, notifications)  
-⚡ Performance Optimization: Speed, SEO, accessibility  
-🤝 Collaboration Tools: Git, GitHub, ClickUp, Figma  
-🚀 Deployment: Vercel, Netlify  
+🖥️ React, Next.js (2+ years)  
+💻 JavaScript, TypeScript, C (basic)  
+⚛️ Redux, Redux Toolkit, Context API  
+🎨 Translating Figma designs into responsive interfaces  
+🔐 Firebase Auth, NextAuth  
+🌐 REST APIs, Axios, createAsyncThunk  
+💳 Stripe, etc.  
+🔄 Socket.IO (chat, notifications)  
+⚡ Speed, SEO, accessibility  
+🤝 Git, GitHub, ClickUp, Figma  
+🚀 Vercel, Netlify  
+
 
 
 ---
