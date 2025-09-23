@@ -7,6 +7,12 @@
 
 ---
 
+## stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saidul147&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## 💡 About Me
 
 I'm Saidul, a passionate Front-End Developer with **2+ years of professional experience** and **3+ years of self-driven learning**, focused on building **scalable**, **high-performance**, and **pixel-perfect** web applications using modern front-end tools.
