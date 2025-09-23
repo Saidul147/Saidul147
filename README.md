@@ -19,33 +19,34 @@ From learning the basics to solving real-world problems and leading teams, I’v
 
 ## 💪 What I'm Good At
 
-- **Frontend Frameworks**: React, Next.js (2+ years)
-- **Languages & Typing**: JavaScript, TypeScript, C (basic)
-- **State Management**: Redux, Redux Toolkit, Context API (Expert)
-- **Pixel-Perfect UI**: Translating Figma designs into responsive interfaces
-- **Authentication**: Firebase Auth, NextAuth
-- **API Handling**: REST APIs, Axios, createAsyncThunk
-- **Payment Integration**: Stripe, etc.
-- **Real-time Features**: Socket.IO (chat, notifications)
-- **Performance Optimization**: Speed, SEO, accessibility
-- **Collaboration Tools**: Git, GitHub, ClickUp, Figma
-- **Deployment**: Vercel, Netlify
+🖥️ Frontend Frameworks: React, Next.js (2+ years)  
+💻 Languages & Typing: JavaScript, TypeScript, C (basic)  
+⚛️ State Management: Redux, Redux Toolkit, Context API (Expert)  
+🎨 Pixel-Perfect UI: Translating Figma designs into responsive interfaces  
+🔐 Authentication: Firebase Auth, NextAuth  
+🌐 API Handling: REST APIs, Axios, createAsyncThunk  
+💳 Payment Integration: Stripe, etc.  
+🔄 Real-Time Features: Socket.IO (chat, notifications)  
+⚡ Performance Optimization: Speed, SEO, accessibility  
+🤝 Collaboration Tools: Git, GitHub, ClickUp, Figma  
+🚀 Deployment: Vercel, Netlify  
+
 
 ---
 
 ## 🧠 Tech Stack
 
-| Category                          | Tools / Technologies                                                                 |
-|----------------------------------|----------------------------------------------------------------------------------------|
-| **Frontend Frameworks**          | React, Next.js                                                                         |
-| **State Management**             | Redux, Redux Toolkit, Context API                                                     |
-| **Styling & UI**                 | Tailwind CSS, ShadCN, Ant Design, Bootstrap                                           |
-| **API Handling**                 | REST APIs, Axios, RTK Query, createAsyncThunk                                         |
-| **Authentication**              | Firebase Authentication, NextAuth                                                     |
-| **Real-Time Features**           | Socket.IO (chat, notifications)                                                       |
-| **Hosting & Deployment**         | Vercel, Netlify, Firebase Hosting                                                     |
-| **Version Control & Collaboration** | Git, GitHub, ClickUp, Figma                                                      |
-| **Best Practices**              | Component-based architecture, Clean Code, SEO, Performance Optimization               |
+| Category               | Tools / Technologies                              |
+|------------------------|---------------------------------------------------|
+| **Frontend**           | React, Next.js                                    |
+| **State Management**   | Redux, Redux Toolkit, Context API                 |
+| **UI & Styling**       | Tailwind CSS, ShadCN, Ant Design                  |
+| **APIs & Auth**        | REST APIs, Axios, Firebase Auth, NextAuth         |
+| **Real-Time**          | Socket.IO                                         |
+| **Deployment**         | Vercel, Netlify, Firebase Hosting                 |
+| **Collaboration**      | Git, GitHub, ClickUp, Figma                       |
+
+
 
 
 ---
