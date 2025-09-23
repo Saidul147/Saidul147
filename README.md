@@ -58,8 +58,7 @@ From learning the basics to solving real-world problems and leading teams, I’v
 Feel free to reach out to me via:
 
 - 📧 **Email**: sidul.islam.146@gmail.com
-- 📞 WhatsApp : +880 1789537534
-- 🌐 **Portfolio (Coming Soon)**  
+- 📞 WhatsApp : +880 1789537534 
 - 🐱‍💻 **GitHub**: [github.com/Saidul147](https://github.com/Saidul147)
 
 ---
