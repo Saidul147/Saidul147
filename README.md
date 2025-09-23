@@ -35,15 +35,18 @@ From learning the basics to solving real-world problems and leading teams, I’v
 
 ## 🧠 Tech Stack
 
-| Category         | Tools / Frameworks                                   |
-|------------------|------------------------------------------------------|
-| **State Mgmt**   | Redux, Redux Toolkit, Context API                    |
-| **Architecture** | Modern Front-End Practices, Clean Code               |
-| **Backend (BaaS)** | Firebase (Auth, Firestore, Hosting)               |
-| **APIs / Comm**  | REST APIs, Axios, Socket.IO                          |
-| **Deployment**   | Vercel, Netlify                                      |
-| **Collaboration**| Git, GitHub, ClickUp                                 |
-| **UI/UX**        | Figma, ShadCN, Tailwind CSS, Ant Design              |
+| Category                          | Tools / Technologies                                                                 |
+|----------------------------------|----------------------------------------------------------------------------------------|
+| **Frontend Frameworks**          | React, Next.js                                                                         |
+| **State Management**             | Redux, Redux Toolkit, Context API                                                     |
+| **Styling & UI**                 | Tailwind CSS, ShadCN, Ant Design, Bootstrap                                           |
+| **API Handling**                 | REST APIs, Axios, RTK Query, createAsyncThunk                                         |
+| **Authentication**              | Firebase Authentication, NextAuth                                                     |
+| **Real-Time Features**           | Socket.IO (chat, notifications)                                                       |
+| **Hosting & Deployment**         | Vercel, Netlify, Firebase Hosting                                                     |
+| **Version Control & Collaboration** | Git, GitHub, ClickUp, Figma                                                      |
+| **Best Practices**              | Component-based architecture, Clean Code, SEO, Performance Optimization               |
+
 
 ---
 
