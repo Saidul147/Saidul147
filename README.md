@@ -48,7 +48,7 @@ From learning the basics to solving real-world problems and leading teams, I’v
 ---
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidul147)](https://github.com/anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&commits_year=2025&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidul147&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&commits_year=2025&show_icons=true&theme=radical)
 
 
 ---
