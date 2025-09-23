@@ -48,10 +48,7 @@ From learning the basics to solving real-world problems and leading teams, I’v
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  [![MD. Saidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidul147&show_icons=true&theme=dark&count_private=true)](https://github.com/Saidul147)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidul147&theme=dark&layout=compact)](https://github.com/Saidul147)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidul147)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
