@@ -1,4 +1,4 @@
-# Hi there 👋, I'm MD. SAiDuL
+# Hi there 👋, I'm MD SAiDuL
 
 ###  🚀 **Front-End Developer** at Softvence Delta Ltd.  
 ###  💼 **Ex-WordPress Developer** at Kasmibd Ltd.  
