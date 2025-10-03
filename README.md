@@ -23,7 +23,7 @@ From learning the basics to solving real-world problems and leading teams, I’v
 
 🖥️ React, Next.js  
 💻 JavaScript, TypeScript, C  
-⚛️ Redux, Redux Toolkit, Context API  
+⚛️ Redux, Redux Toolkit, Context API, Zustand
 🔐 Firebase Auth, NextAuth  
 🌐 REST APIs, Axios, RTK Query, createAsyncThunk  
 💳 Stripe, etc.  
@@ -45,7 +45,7 @@ From learning the basics to solving real-world problems and leading teams, I’v
 | Category               | Tools / Technologies                              |
 |------------------------|---------------------------------------------------|
 | **Frontend**           | React, Next.js                                    |
-| **State Management**   | Redux, Redux Toolkit, Context API                 |
+| **State Management**   | Redux, Redux Toolkit, Context API, Zustand                 |
 | **UI & Styling**       | Tailwind CSS, ShadCN, Ant Design                  |
 | **APIs & Auth**        | REST APIs, Axios, Firebase Auth, NextAuth         |
 | **Real-Time**          | Socket.IO                                         |
